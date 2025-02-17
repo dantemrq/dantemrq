@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Dante Marques!
+# 👋 Olá, eu sou o Dante, ou pode me chamar de Dan!
 
 ## 🚀 Sobre mim
 Atualmente, estou me aprofundando na área de desenvolvimento web, focando em HTML, CSS e JavaScript. Meu objetivo é dominar essas tecnologias e evoluir constantemente para me tornar um desenvolvedor full stack.
